@@ -1,0 +1,33 @@
+fastapi
+
+uvicorn[standard]
+
+langchain
+
+langchain-community
+
+langchain-openai #use nvidia ai and embeddings
+
+openai
+
+tiktoken
+
+# pinecone-client
+
+pypdf
+
+python-dotenv
+
+pydantic
+
+aiofiles
+
+httpx
+
+faiss-cpu
+
+sentence-transformers
+
+pymongo
+
+langchain-nvidia-ai-endpoints
